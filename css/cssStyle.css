@@ -1,0 +1,107 @@
+*{
+    box-sizing: border-box;
+    transition: all .1s ease-in;
+}
+
+body{
+    width: 1140px;
+    max-width: 100%;
+    font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;
+    color: #ffff;
+    background-color: #2793C9;
+    padding-top: 40px;
+    margin: 0 auto;
+}
+
+.iconMenu{
+    font-size: 0;
+    border: 2px solid #ffff;
+    margin: 0;
+    padding: 0;
+}
+
+i{
+    font-size: 34px;
+}
+
+.iconMenu:hover .icons:not(:hover){
+    opacity: 0.5;
+}
+
+.iconMenu .icons{
+    display: inline-block;
+    border: 2px solid #ffff;
+    text-align: center;
+    line-height: 45px;
+    padding: 15px 0;
+}
+
+.icons1{
+    background-color: #2A92CF;
+    font-size: 24px;
+    width: 50%;
+}
+
+.icons2{
+    background-color: #25BECC;
+    font-size: 24px;
+    width: 25%;
+}
+
+.icons3{
+    background-color: #996F93;
+    font-size: 24px;
+    width: 25%;
+}
+
+.icons4{
+    background-color: #C95545;
+    font-size: 24px;
+    width: 25%;
+}
+
+.icons5{
+    background-color: #E98055;
+    font-size: 24px;
+    width: 25%;
+}
+
+.icons6{
+    background-color: #FFCB5F;
+    font-size: 24px;
+    width: 25%;
+}
+
+.icons7{
+    background-color: #94C393;
+    font-size: 24px;
+    width: 25%;
+}
+
+.icons8{
+    background-color: #619497;
+    font-size: 24px;
+    width: 25%;
+}
+
+.icons9{
+    background-color: #D47295;
+    font-size: 24px;
+    width: 50%;
+}
+
+.icons10{
+    background-color: #2B8C64;
+    font-size: 24px;
+    width: 25%;
+}
+
+.icons11{
+    background-color: #636999;
+    font-size: 24px;
+    width: 100%;
+}
+/* 
+p{
+    padding-left: 4%;
+} */
